@@ -2,9 +2,9 @@
 Estou cursando bacharelado em Tecnologia da Informação na Univesp. 
 Sou técnica em Desenvolvimento Front-end desde 2021.
 
-Minha curiosidade pela área da computação foi descoberta em 2020, desde então não parei de estudar. Gosto de contribuir com a comunidade, incentivar os iniciantes e contribuir com trabalhos voluntários. 
+Minha curiosidade pela área da computação foi descoberta em 2020, desde então não parei de estudar. Gosto de participar de debates sobre tecnologia e inovação, incentivar futuros desenvolvedores e contribuir com trabalhos voluntários. 
 
-As minhas área de estudo são: desenvolvimento de software, estrutura de dados, suporte ao usuário e redes de computadores.
+Áreas de atuação: desenvolvimento de software, estrutura de dados, suporte ao usuário e redes de computadores.
 
 ##
 
