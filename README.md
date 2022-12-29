@@ -25,5 +25,8 @@ Olá, eu sou a Eloísa
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@eloisantunes"target="_blank">
     <img scr="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+    
+    ![Snake animation](https://github.com/e-0a/e-0a/blob/output/github-contribution-grid-snake.svg)
+ 
   
   </div>
