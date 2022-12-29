@@ -1,4 +1,12 @@
-Olá, eu sou a Eloísa
+# Oii, Meu nome é Eloísa, sou uma Desenvolvedora Fullstack 🌱
+Estou cursando bacharelado em Tecnologia da Informação na Univesp. 
+Sou técnica em Desenvolvimento Front-end desde 2021.
+
+Minha curiosidade pela área da computação foi descoberta em 2020, desde então não parei de estudar. Gosto de contribuir com a comunidade, incentivar os iniciantes e contribuir com trabalhos voluntários. 
+
+As minhas área de estudo são: desenvolvimento de software, estrutura de dados, suporte ao usuário e redes de computadores.
+
+##
 
 <div align="center">
   <a href="https://github.com/e-0a">
@@ -25,8 +33,5 @@ Olá, eu sou a Eloísa
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@eloisantunes"target="_blank">
     <img scr="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-    
-    ![Snake animation](https://github.com/e-0a/e-0a/blob/output/github-contribution-grid-snake.svg)
- 
   
   </div>
