@@ -20,11 +20,6 @@ Minha curiosidade pela área da computação foi descoberta em 2020, desde entã
   </div>
   
 ##
-
-<div align="center">
-  <a href="https://github.com/e-0a">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=e-0a&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="E-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
