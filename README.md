@@ -1,4 +1,4 @@
-# Oi, Meu nome é Eloísa, sou uma Desenvolvedora Fullstack 🌱
+# Oi, Meu nome é Eloísa, sou uma Desenvolvedora Front-end 🌱
 Sou estudante de Tecnologia da Informação na Univesp. 
 Atuo como técnica em Desenvolvimento Front-end desde 2021.
 
