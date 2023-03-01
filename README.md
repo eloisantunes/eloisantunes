@@ -1,9 +1,9 @@
 # Oi, Meu nome é Eloísa, sou uma Desenvolvedora Front-end 🌱 
 Meu interesse por TI nasceu em 2021, fiz a inscrição em um curso de Desenvolvimento Front-end e ali pude ter certeza de que esse é meu caminho. Atualmente estou cursando bacharel em Tecnologia da Informação e trabalhando em projetos pessoais, utilizando tecnologias como Flutter e Reactjs.
 
-Minha curiosidade pela área da computação foi descoberta em 2020, desde então não parei de estudar. Gosto de participar de debates sobre tecnologia e inovação, incentivar futuros desenvolvedores e contribuir com trabalhos voluntários. 
+No meu tempo livre gosto de participar de debates sobre tecnologia e inovação, incentivar futuros desenvolvedores e contribuir com projetos de impacto social. 
 
-Áreas de estudo e atuação: desenvolvimento de software, estrutura de dados, suporte ao usuário e redes de computadores.
+Áreas de estudo e atuação: desenvolvimento de software, estrutura de dados, suporte ao usuário e segurança da informação.
 
 <div>
   
