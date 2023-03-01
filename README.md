@@ -1,6 +1,6 @@
 # Oi, Meu nome é Eloísa, sou uma Desenvolvedora Front-end 🌱
 Sou estudante de Tecnologia da Informação. 
-Meu interesse por TI nasceu em 2021, me inscrevi em.
+Meu interesse por TI nasceu em 2021, fiz a inscrição em um curso de Desenvolvimento Front-end e dali pude ter certeza de que esse é meu caminho.
 
 Minha curiosidade pela área da computação foi descoberta em 2020, desde então não parei de estudar. Gosto de participar de debates sobre tecnologia e inovação, incentivar futuros desenvolvedores e contribuir com trabalhos voluntários. 
 
