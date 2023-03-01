@@ -1,6 +1,6 @@
 # Oi, Meu nome é Eloísa, sou uma Desenvolvedora Front-end 🌱
-Sou estudante de Tecnologia da Informação na Univesp. 
-Atuo como técnica em Desenvolvimento Front-end desde 2021.
+Sou estudante de Tecnologia da Informação. 
+Meu interesse por TI nasceu em 2021, me inscrevi em.
 
 Minha curiosidade pela área da computação foi descoberta em 2020, desde então não parei de estudar. Gosto de participar de debates sobre tecnologia e inovação, incentivar futuros desenvolvedores e contribuir com trabalhos voluntários. 
 
