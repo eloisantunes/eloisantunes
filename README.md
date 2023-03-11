@@ -1,7 +1,7 @@
 # Oi, Meu nome é Eloísa, sou uma Desenvolvedora Front-end 🌱 
 Cresci em um mundo em exponencial expansão tecnológica e isso por si só foi um grande estimulante para o desenvolvimento da minha paixão por computadores. Um dos meus brinquedos favoritos quando criança foi um teclado de estimação, minha condição financeira não permitia comprar todas as peças, mas para mim naquela época isso bastava... 
 
-No início de 2021 cogitei me tornar uma profissional de TI, apesar da insegurança e por conta da pouca representavidade feminina, comecei esse projeto, primeiro pesquisando sozinha, e com o decorrer dos dias percebi que seria um longo caminho. Fiz minha inscrição em um curso de Desenvolvimento Front-end, já nas primeiras aulas percebi que havia feito a escolha certa.
+No início de 2021 cogitei me tornar uma profissional de TI, apesar da insegurança e por conta da pouca representavidade feminina, comecei esse projeto, primeiro pesquisando sozinha, e com o decorrer dos dias percebi que seria um longo caminho. Fiz minha inscrição em um curso técnico de Desenvolvimento Web, já nas primeiras aulas percebi que havia feito a escolha certa.
 Especialmente por ter um ótimo mentor que sempre me motivava a continuar, através de toda experiência que passava por suas explicações pacientes. 
 
 Esse curso durou seis meses e foi o suficiente para que eu me mantivesse firme e ainda mais confiente sobre minha escolha. Atualmente estou cursando bacharel em Tecnologia da Informação e trabalhando em projetos pessoais utilizando tecnologias como Node e conhecendo mais sobre o framework Reactjs.
