@@ -1,7 +1,10 @@
 # Oi, Meu nome é Eloísa, sou uma Desenvolvedora Front-end 🌱 
 Cresci em um mundo em exponencial expansão tecnológica e isso por si só foi um grande estimulante para o desenvolvimento da minha paixão por computadores. Um dos meus brinquedos favoritos quando criança foi um teclado de estimação, minha condição financeira não permitia comprar todas as peças, mas para mim naquela época isso bastava... 
 
-No início de 2021 cogitei me tornar uma profissional de TI, apesar da insegurança e por conta da pouca representavidade feminina, comecei esse projeto, primeiro pesquisando sozinha, e com o decorrer dos dias percebi que era realmente muita coisa para aprender, então fiz a inscrição em um curso de Desenvolvimento Front-end e ali pude ter certeza de que fiz uma boa escolha, inclusive por ter um ótimo mentor que sempre me motivava a continuar. Esse curso durou seis meses e foi o suficiente para que eu me mantivesse firme e ainda mais confiente sobre minha escolha. Atualmente estou cursando bacharel em Tecnologia da Informação e trabalhando em projetos pessoais utilizando tecnologias como Node e conhecendo mais sobre Reactjs.
+No início de 2021 cogitei me tornar uma profissional de TI, apesar da insegurança e por conta da pouca representavidade feminina, comecei esse projeto, primeiro pesquisando sozinha, e com o decorrer dos dias percebi que era realmente muita coisa para aprender, então fiz a inscrição em um curso de Desenvolvimento Front-end. Nesse estágio consegui perceber que havia feito uma boa escolha.
+Especialmente por ter um ótimo mentor que sempre me motivava a continuar, através de toda experiência que passava por suas explicações pacientes. 
+
+Esse curso durou seis meses e foi o suficiente para que eu me mantivesse firme e ainda mais confiente sobre minha escolha. Atualmente estou cursando bacharel em Tecnologia da Informação e trabalhando em projetos pessoais utilizando tecnologias como Node e conhecendo mais sobre o framework Reactjs.
 
 No meu tempo livre gosto de participar de debates sobre tecnologia e inovação, incentivar futuros desenvolvedores e contribuir com projetos de impacto social. 
 
