@@ -4,7 +4,7 @@ Cresci em um mundo em exponencial expansão tecnológica e isso por si só foi u
 No início de 2021 cogitei me tornar uma profissional de TI, apesar da insegurança e por conta da pouca representavidade feminina, comecei esse projeto, primeiro pesquisando sozinha, e com o decorrer dos dias percebi que seria um longo caminho. Fiz minha inscrição em um curso técnico de Desenvolvimento Web, já nas primeiras aulas percebi que havia feito a escolha certa.
 Especialmente por ter um excelente mentor que sempre me motivava a continuar, através de toda experiência que passava em suas pacientes explicações. 
 
-Esse curso durou seis meses e foi o suficiente para que eu me mantivesse firme e ainda mais confiente sobre minha escolha. Atualmente estou cursando bacharel em Tecnologia da Informação e trabalhando em projetos pessoais utilizando tecnologias como Node e conhecendo mais sobre o framework Reactjs.
+Esse curso durou seis meses e foi o suficiente para que eu me mantivesse firme e ainda mais confiente na minha jornada. Atualmente estou cursando bacharel em Tecnologia da Informação e trabalhando em projetos pessoais utilizando tecnologias como Node e conhecendo mais sobre o framework Reactjs.
 
 No meu tempo livre gosto de participar de debates sobre tecnologia e inovação, incentivar futuros desenvolvedores e contribuir com projetos de impacto social. 
 
