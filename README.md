@@ -1,4 +1,4 @@
-# Oi, Meu nome é Eloísa, sou uma Desenvolvedora Front-end 🌱 
+# Oi, Meu nome é Eloísa, sou uma Desenvolvedora Fullstack 🌱 
 Cresci em um mundo em exponencial expansão tecnológica e isso por si só foi um grande estimulante para o desenvolvimento da minha paixão por computadores. Um dos meus brinquedos favoritos quando criança foi um teclado de estimação, minha condição financeira não permitia comprar todas as peças, mas para mim naquela época isso bastava... 
 
 No início de 2021 cogitei me tornar uma profissional de TI, apesar da insegurança e por conta da pouca representavidade feminina, comecei esse projeto, primeiro pesquisando sozinha, e com o decorrer dos dias percebi que seria um longo caminho. Fiz minha inscrição em um curso técnico de Desenvolvimento Web, já nas primeiras aulas percebi que havia feito a escolha certa.
