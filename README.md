@@ -1,7 +1,7 @@
 # Oi, eu sou a Eloísa, sou uma Desenvolvedora Fullstack 🌱 
 Cresci em um mundo em exponencial expansão tecnológica e isso por si só foi um grande estimulante para o desenvolvimento da minha **paixão por computadores.** Um dos meus brinquedos favoritos quando criança foi um teclado de estimação, minha condição financeira na época não possibilitava a compra de todas as peças, mas para mim isso bastava... 
 
-No início de 2021 decidi me tornar uma profissional de TI, apesar da insegurança por conta da pouca representavidade feminina, *imergi nos estudos*. Depois de **muitas** pesquisas, notei a dimensão do desafio que me aguardava. 
+No início de 2021 decidi me tornar uma profissional de TI, apesar da insegurança por conta das poucas referências femininas, *imergi nos estudos*. Depois de **muitas** pesquisas, notei a dimensão do desafio que me aguardava. 
 
 Optei por me matricular em um *curso técnico de Desenvolvimento Web* na minha cidade. Essa experiência abriu minha mente para o mundo da programação, a cada módulo meus olhos brilhavam com tantas possibilidades. Isso também se deve ao fato de ter um excelente mentor que sempre me motivava a continuar através de todo conhecimento que passava em suas pacientes explicações. Por isso, se meu professor J. Emmanuel estiver lendo isso, expresso aqui meus sinceros agradecimentos. 
 
