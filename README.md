@@ -10,7 +10,7 @@ Atualmente estou no segundo semestre do curso de *bacharel em Tecnologia da Info
 
 No meu tempo livre gosto de participar de debates sobre tecnologia e inovação, incentivar desenvolvedores iniciantes e contribuir com projetos de impacto social. 
 
-**Áreas de estudo e atuação:** desenvolvimento de software, estrutura de dados, suporte ao usuário e segurança da informação.
+**Áreas de estudo e atuação:** desenvolvimento de software, estrutura de dados, suporte técnico e segurança da informação.
 
 
 > Nós sempre vamos ter a *ciência* conosco.
