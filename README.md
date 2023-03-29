@@ -10,7 +10,7 @@ Atualmente estou no segundo semestre do curso de *bacharel em Tecnologia da Info
 
 No meu tempo livre gosto de participar de debates sobre tecnologia e inovação, incentivar desenvolvedores iniciantes e contribuir com projetos de impacto social. 
 
-**Áreas de estudo e atuação:** desenvolvimento de software, estrutura de dados, suporte técnico e segurança da informação.
+<kbd>**Áreas de estudo e atuação:** desenvolvimento de software, estrutura de dados, suporte técnico e segurança da informação.</kbd>
 
 
 > Nós sempre vamos ter a *ciência* conosco.
@@ -19,7 +19,9 @@ No meu tempo livre gosto de participar de debates sobre tecnologia e inovação,
 > Tudo é *física e matemática.*
 > - Katherine Johnson (1918-2020)
 
-![myoctocat](![octocat-1680062354917](https://user-images.githubusercontent.com/118397019/228423399-5d49873a-ab6e-4de0-be3e-a4a6153ca663.png)
+
+
+<div align="center"> <img src="https://user-images.githubusercontent.com/118397019/228424389-fa76f65f-ee8e-4132-8429-54482c2341af.png" width="230" heigth="230" > </div>
 
 <div>
   
