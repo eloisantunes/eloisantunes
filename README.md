@@ -1,14 +1,15 @@
 # Oi, Meu nome é Eloísa, sou uma Desenvolvedora Fullstack 🌱 
 Cresci em um mundo em exponencial expansão tecnológica e isso por si só foi um grande estimulante para o desenvolvimento da minha **paixão por computadores.** Um dos meus brinquedos favoritos quando criança foi um teclado de estimação, minha condição financeira na época não possibilitava a compra de todas as peças, mas para mim isso bastava... 
 
-No início de 2021 cogitei me tornar uma profissional de TI, apesar da insegurança e por conta da pouca representavidade feminina, comecei esse projeto, primeiro pesquisando sozinha, e com o decorrer dos dias percebi que seria um longo caminho. Fiz minha inscrição em um curso técnico de Desenvolvimento Web, já nas primeiras aulas percebi que havia feito a escolha certa.
-Especialmente por ter um excelente mentor que sempre me motivava a continuar, através de toda experiência que passava em suas pacientes explicações. 
+No início de 2021 decidi me tornar uma profissional de TI, apesar da insegurança por conta da pouca representavidade feminina, *imergi nos estudos*. Depois de **muitas** pesquisas, notei a dimensão do desafio que me aguardava. 
+Optei por me matricular em um *curso técnico de Desenvolvimento Web* na minha cidade. Essa experiência abriu minha mente para o mundo da programação, a cada módulo meus olhos brilhavam com tantas possibilidades. Isso também se deve ao fato de ter um excelente mentor que sempre me motivava a continuar, através de todo conhecimento que passava em suas pacientes explicações. Por isso, se meu professor J. Emanuel estiver lendo isso, expresso aqui meus agradecimentos. 
 
-Esse curso durou seis meses e foi o suficiente para que eu me mantivesse firme e ainda mais confiente na minha jornada. Atualmente estou cursando bacharel em Tecnologia da Informação e trabalhando em projetos pessoais utilizando tecnologias como Node e conhecendo mais sobre o framework Reactjs.
+Esse curso durou seis meses e foi o suficiente para que eu me mantivesse firme e ainda mais confiente na minha jornada. 
+Atualmente estou no segundo semestre do curso de *bacharel em Tecnologia da Informação* e trabalhando um projeto pessoal.
 
 No meu tempo livre gosto de participar de debates sobre tecnologia e inovação, incentivar futuros desenvolvedores e contribuir com projetos de impacto social. 
 
-Áreas de estudo e atuação: desenvolvimento de software, estrutura de dados, suporte ao usuário e segurança da informação.
+**Áreas de estudo e atuação:** desenvolvimento de software, estrutura de dados, suporte ao usuário e segurança da informação.
 
 
 > Nós sempre vamos ter a *ciência* conosco.
