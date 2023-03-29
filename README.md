@@ -19,6 +19,8 @@ No meu tempo livre gosto de participar de debates sobre tecnologia e inovação,
 > Tudo é *física e matemática.*
 > - Katherine Johnson (1918-2020)
 
+![myoctocat](![octocat-1680062354917](https://user-images.githubusercontent.com/118397019/228423399-5d49873a-ab6e-4de0-be3e-a4a6153ca663.png)
+
 <div>
   
   <a href="https://instagram.com/eloisantunesz" target="_blank">
