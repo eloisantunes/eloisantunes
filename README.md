@@ -10,6 +10,13 @@ No meu tempo livre gosto de participar de debates sobre tecnologia e inovação,
 
 Áreas de estudo e atuação: desenvolvimento de software, estrutura de dados, suporte ao usuário e segurança da informação.
 
+
+> Nós sempre vamos ter a *ciência* conosco.
+> Algumas coisas vão desaparecer, mas **sempre vai haver ciência, engenharia e tecnologia.**
+> E sempre, sempre vai haver *matemática*.
+> Tudo é *física e matemática.*
+> - Katherine Johnson (1918-2020)
+
 <div>
   
   <a href="https://instagram.com/eloisantunesz" target="_blank">
