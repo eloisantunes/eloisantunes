@@ -5,7 +5,7 @@ No início de 2021 decidi me tornar uma profissional de TI, apesar da inseguran�
 
 Optei por me matricular em um *curso técnico de Desenvolvimento Web* na minha cidade. Essa experiência abriu minha mente para o mundo da programação, a cada módulo meus olhos brilhavam com tantas possibilidades. Isso também se deve ao fato de ter um excelente mentor que sempre me motivava a continuar através de todo conhecimento que passava em suas pacientes explicações. Por isso, se meu professor J. Emmanuel estiver lendo isso, expresso aqui meus agradecimentos. 
 
-Esse curso durou seis meses e foi o suficiente para que eu me mantivesse firme e ainda mais confiente na minha jornada. 
+Esse curso durou seis meses e foi o suficiente para que eu me mantivesse firme e ainda mais confiante na minha jornada. 
 Atualmente estou no segundo semestre do curso de *bacharel em Tecnologia da Informação* e trabalhando um projeto pessoal.
 
 No meu tempo livre gosto de participar de debates sobre tecnologia e inovação, incentivar desenvolvedores iniciantes e contribuir com projetos de impacto social. 
