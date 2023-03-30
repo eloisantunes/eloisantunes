@@ -1,4 +1,20 @@
-# Oi, eu sou a Eloísa, uma Desenvolvedora Fullstack 🌱 
+## Oi, eu sou a Eloísa, uma Desenvolvedora Fullstack 🌱
+
+
+<div align='center'>
+  
+  <a href="https://instagram.com/eloisantunesz" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=plastic&logo=appveyor&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eloisantunesp@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=plastic&logo=appveyor&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eloisa-antunes" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=appveyor=linkedin&logoColor=white" target="_blank"></a> 
+  
+  </div>
+  
+##
+
+
 Cresci em um mundo em exponencial expansão tecnológica e isso por si só foi um grande estimulante para o desenvolvimento da minha **paixão por computadores.** Um dos meus brinquedos favoritos quando criança foi um teclado de estimação, minha condição financeira na época não possibilitava a compra de todas as peças, mas para mim isso bastava... 
 
 No início de 2021 decidi me tornar uma profissional de TI, apesar da insegurança por conta das poucas referências femininas, *imergi nos estudos*. Depois de **muitas** pesquisas, notei a dimensão do desafio que me aguardava. 
@@ -19,20 +35,14 @@ No meu tempo livre gosto de participar de debates sobre tecnologia e inovação,
 > Tudo é *física e matemática.*
 > - Katherine Johnson (1918-2020)
 
+##
+
+![e's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-0a&show_icons=true&theme=tokyonight)
+
 
 
 <div align="center"> <img src="https://user-images.githubusercontent.com/118397019/228424389-fa76f65f-ee8e-4132-8429-54482c2341af.png" width="230" heigth="230" > </div>
 
-<div>
-  
-  <a href="https://instagram.com/eloisantunesz" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eloisantunesp@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eloisa-antunes" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  </div>
   
 ##
   
