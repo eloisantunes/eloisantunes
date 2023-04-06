@@ -36,12 +36,9 @@ No meu tempo livre gosto de participar de debates sobre tecnologia e inovação,
 > - Katherine Johnson (1918-2020)
 
 ##
-
 ![e's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-0a&show_icons=true&theme=tokyonight)
 
-
 <div align="center"> <img src="https://user-images.githubusercontent.com/118397019/230259094-f4815a1d-a658-479a-af2c-0d9ea4fbdf94.png" width="230" heigth="230" > </div>
-
   
 ##
   
