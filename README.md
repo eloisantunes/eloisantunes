@@ -39,9 +39,12 @@ No meu tempo livre gosto de participar de debates sobre tecnologia e inovação,
 
 ![e's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-0a&show_icons=true&theme=tokyonight)
 
-![]()
+##
+  
+![w1sa]()
 
 <div align="center"> <img src="https://user-images.githubusercontent.com/118397019/228424389-fa76f65f-ee8e-4132-8429-54482c2341af.png" width="230" heigth="230" > </div>
+![octocat-1680747735734](https://user-images.githubusercontent.com/118397019/230259094-f4815a1d-a658-479a-af2c-0d9ea4fbdf94.png)
 
   
 ##
