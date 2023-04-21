@@ -15,16 +15,16 @@
 ##
 
 
-Cresci em um mundo em exponencial expansão tecnológica e isso por si só foi um grande estimulante para o desenvolvimento da minha **paixão por computadores.** Um dos meus brinquedos favoritos quando criança foi um teclado de estimação, minha condição financeira na época não possibilitava a compra de todas as peças, mas para mim isso bastava.
+Cresci em um mundo em exponencial expansão tecnológica e isso por si só foi um grande estimulante para o desenvolvimento da minha **paixão por computadores.**
 
 No início de 2021 decidi me tornar uma profissional de TI, apesar da insegurança por conta das poucas referências femininas, *imergi nos estudos*. Depois de **muitas** pesquisas, notei a dimensão do desafio que me aguardava. 
 
-Optei por me matricular em um *curso técnico de Desenvolvimento Web* na minha cidade. Essa experiência abriu minha mente para o mundo da programação, a cada módulo meus olhos brilhavam com tantas possibilidades. Isso também se deve ao fato de ter um excelente mentor que sempre me motivava a continuar através de todo conhecimento que passava em suas pacientes explicações. Por isso, se meu professor J. Emmanuel estiver lendo isso, expresso aqui meus sinceros agradecimentos. 
+Optei por me inscrever em um *curso técnico de Desenvolvimento Web* na minha cidade. Essa experiência abriu minha mente para o mundo da programação, *a cada módulo meus olhos brilhavam com tantas possibilidades.*
 
 Esse curso durou seis meses e foi o suficiente para que eu me mantivesse firme e ainda mais confiante na minha jornada. 
-Atualmente estou no segundo semestre do curso de *bacharel em Tecnologia da Informação* e trabalhando um projeto pessoal.
+Atualmente estou no *segundo semestre do curso de bacharel em Tecnologia da Informação* e trabalhando em projetos pessoais.
 
-No meu tempo livre gosto de participar de debates sobre tecnologia e inovação, incentivar desenvolvedores iniciantes e contribuir com projetos de impacto social. 
+No meu tempo livre gosto de participar de debates sobre **tecnologia e inovação, incentivar desenvolvedores iniciantes e contribuir com projetos de impacto social.** 
 
 <kbd>**Áreas de estudo e atuação:** desenvolvimento de software, estrutura de dados, suporte técnico e segurança da informação.</kbd>
 
