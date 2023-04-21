@@ -40,13 +40,14 @@ No meu tempo livre gosto de participar de debates sobre **tecnologia e inovaçã
 <div align="center"> <img src="https://user-images.githubusercontent.com/118397019/230259094-f4815a1d-a658-479a-af2c-0d9ea4fbdf94.png" width="230" heigth="230" > </div>
   
 ##
-  
+ 
+ <div align='center'>
 <div style="display: inline_block"><br>
   <img align="center" alt="E-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="E-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="E-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="E-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="E-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+  </div>
   ##
   
