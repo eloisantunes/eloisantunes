@@ -36,10 +36,6 @@ No meu tempo livre gosto de participar de debates sobre **tecnologia e inovaçã
 > - Katherine Johnson (1918-2020)
 
 ##
-
-<div align="center"> <img src="https://user-images.githubusercontent.com/118397019/230259094-f4815a1d-a658-479a-af2c-0d9ea4fbdf94.png" width="230" heigth="230" > </div>
-  
-##
  
  <div align='center'>
 <div style="display: inline_block"><br>
