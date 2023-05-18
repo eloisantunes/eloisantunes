@@ -17,7 +17,7 @@
 
 Cresci em um mundo em exponencial expansão tecnológica e isso por si só foi um grande estimulante para o desenvolvimento da minha **paixão por computadores.**
 
-No início de 2021 decidi me tornar uma profissional de TI, *imergi nos estudos*. Depois de **muitas** pesquisas, notei a dimensão do desafio que me aguardava. 
+No início de 2021 decidi me tornar uma profissional de TI, *imergi nos estudos* e depois de **muitas** pesquisas, notei a dimensão do desafio que me aguardava. 
 
 Optei por me inscrever em um *curso técnico de Desenvolvimento Web* na minha cidade. Essa experiência abriu minha mente para o mundo da programação, *a cada módulo meus olhos brilhavam com tantas possibilidades.*
 
