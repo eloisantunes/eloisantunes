@@ -19,7 +19,7 @@ Cresci em um mundo em exponencial expansão tecnológica e isso por si só foi u
 
 No início de 2021 decidi me tornar uma profissional de TI, *imergi nos estudos* e depois de **muitas** pesquisas, notei a dimensão do desafio que me aguardava. 
 
-Optei por me inscrever em um *curso técnico de Desenvolvimento Web* na minha cidade. Essa experiência abriu minha mente para o mundo da programação, *a cada módulo meus olhos brilhavam com tantas possibilidades.*
+Optei por me matricular em um *curso técnico de Desenvolvimento Web* na minha cidade. Essa experiência abriu minha mente para o mundo da programação, *a cada módulo meus olhos brilhavam com tantas possibilidades.*
 
 Esse curso durou seis meses e foi o suficiente para que eu me mantivesse firme e ainda mais confiante na minha jornada. 
 Atualmente estou no *segundo semestre do curso de bacharel em Tecnologia da Informação* e trabalhando em projetos pessoais.
