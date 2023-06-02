@@ -1,4 +1,4 @@
-# Oi, eu sou a Eloísa, uma Desenvolvedora Fullstack 🌱
+# Olá, eu me Eloísa, uma Desenvolvedora Fullstack 🌱
 
 
 <div align='center'>
