@@ -24,7 +24,7 @@ Optei por me matricular em um *curso técnico de Desenvolvimento Web* na minha c
 Esse curso durou seis meses e foi o suficiente para que eu me mantivesse firme e ainda mais confiante na minha jornada. 
 Atualmente estou no *segundo semestre do curso de bacharel em Tecnologia da Informação* e trabalhando em projetos pessoais.
 
-No meu tempo livre gosto de participar de debates sobre **tecnologia e inovação,  e trabalho voluntário em projetos sociais.** 
+No meu tempo livre gosto de participar de debates sobre **tecnologia e inovação, aprender coisas novas e trabalho voluntário em projetos sociais.** 
 
 <kbd>**Áreas de estudo e atuação:** desenvolvimento de software, estrutura de dados, suporte técnico e segurança da informação.</kbd>
 
