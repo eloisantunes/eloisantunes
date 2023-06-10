@@ -3,8 +3,7 @@
 
 <div align='center'>
   
-  <a href="https://instagram.com/eloisantunesz" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=plastic&logo=appveyor&logo=instagram&logoColor=white" target="_blank"></a>
+  
   <a href = "mailto:eloisantunesp@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=plastic&logo=appveyor&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eloisa-antunes" target="_blank">
