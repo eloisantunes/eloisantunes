@@ -27,7 +27,7 @@ Atualmente estou no *segundo semestre do curso de bacharel em Tecnologia da Info
 <kbd>**Áreas de estudo e atuação:** desenvolvimento de software, estrutura de dados, suporte técnico e segurança da informação</kbd>
 
 
-> Nós sempre vamos ter a *ciência* conosco.
+> Nós sempre vamos ter a *ciência* conosco
 > Algumas coisas vão desaparecer, mas **sempre vai haver ciência, engenharia e tecnologia.**
 > E sempre, sempre vai haver *matemática*.
 > Tudo é *física e matemática.*
