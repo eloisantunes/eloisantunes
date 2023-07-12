@@ -14,7 +14,7 @@
 ##
 
 
-Cresci em um mundo em exponencial expansão tecnológica e isso por si só foi um grande estimulante para o desenvolvimento da minha **paixão por computadores.**
+Cresci em um mundo em exponencial expansão tecnológica e isso por si só foi um grande estimulante para o desenvolvimento da minha **paixão por computadores**
 
 No início de 2021 decidi me tornar uma profissional de TI, *imergi nos estudos* e depois de **muitas** pesquisas, notei a dimensão do desafio que me aguardava. 
 
