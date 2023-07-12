@@ -24,7 +24,7 @@ Esse curso durou seis meses e foi o suficiente para que eu me mantivesse firme e
 Atualmente estou no *segundo semestre do curso de bacharel em Tecnologia da Informação* e trabalhando em projetos pessoais
 
 
-<kbd>**Áreas de estudo e atuação:** desenvolvimento de software, estrutura de dados, suporte técnico e segurança da informação.</kbd>
+<kbd>**Áreas de estudo e atuação:** desenvolvimento de software, estrutura de dados, suporte técnico e segurança da informação</kbd>
 
 
 > Nós sempre vamos ter a *ciência* conosco.
