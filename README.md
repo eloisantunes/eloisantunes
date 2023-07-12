@@ -28,7 +28,7 @@ Atualmente estou no *segundo semestre do curso de bacharel em Tecnologia da Info
 
 
 > Nós sempre vamos ter a *ciência* conosco
-> Algumas coisas vão desaparecer, mas **sempre vai haver ciência, engenharia e tecnologia.**
+> Algumas coisas vão desaparecer, mas **sempre vai haver ciência, engenharia e tecnologia**
 > E sempre, sempre vai haver *matemática*.
 > Tudo é *física e matemática.*
 > - Katherine Johnson (1918-2020)
