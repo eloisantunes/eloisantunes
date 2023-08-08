@@ -14,10 +14,10 @@
 <kbd>**Áreas de estudo e atuação:** desenvolvimento de software, estrutura de dados, suporte técnico e segurança da informação</kbd>
 
 
-> Nós sempre vamos ter a *ciência* conosco
-> Algumas coisas vão desaparecer, mas **sempre vai haver ciência, engenharia e tecnologia**
-> E sempre, sempre vai haver *matemática*
-> Tudo é *física e matemática*
+> Nós sempre vamos ter a *ciência* conosco <br>
+> Algumas coisas vão desaparecer, mas **sempre vai haver ciência, engenharia e tecnologia** <br>
+> E sempre, sempre vai haver *matemática* <br>
+> Tudo é *física e matemática* <br>
 > - Katherine Johnson (1918-2020)
 
 ##
