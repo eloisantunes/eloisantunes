@@ -14,16 +14,6 @@
 ##
 
 
-Cresci em um mundo em exponencial expansão tecnológica e isso por si só foi um grande estimulante para o desenvolvimento da minha **paixão por computadores**
-
-No início de 2021 decidi me tornar uma profissional de TI, *imergi nos estudos* e depois de **muitas** pesquisas, notei a dimensão do desafio que me aguardava 
-
-Optei por me matricular em um *curso técnico de Desenvolvimento Web* na minha cidade. Essa experiência abriu minha mente para o mundo da programação
-
-Esse curso durou seis meses e foi o suficiente para que eu me mantivesse firme e ainda mais confiante na minha jornada 
-Atualmente estou no *segundo semestre do curso de bacharel em Tecnologia da Informação* e trabalhando em projetos pessoais
-
-
 <kbd>**Áreas de estudo e atuação:** desenvolvimento de software, estrutura de dados, suporte técnico e segurança da informação</kbd>
 
 
