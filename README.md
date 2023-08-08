@@ -3,9 +3,6 @@
 
 <div align='center'>
   
-  
-  <a href = "mailto:eloisantunesp@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=plastic&logo=appveyor&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eloisa-antunes" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=appveyor=linkedin&logoColor=white" target="_blank"></a> 
   
