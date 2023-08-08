@@ -1,4 +1,4 @@
-# Oi, você!🌱
+# Oi, você!
 
 
 <div align='center'>
