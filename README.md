@@ -9,9 +9,9 @@
   
 ##
 
-
-<kbd align='center'>**Áreas de estudo e atuação:** desenvolvimento de software, estrutura de dados, suporte técnico e segurança da informação</kbd>
-
+<div align='center'>
+<kbd>**Áreas de estudo e atuação:** desenvolvimento de software, estrutura de dados, suporte técnico e segurança da informação</kbd>
+</div>
 
 ##
  
