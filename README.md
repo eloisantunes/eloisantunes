@@ -10,7 +10,7 @@
 ##
 
 
-<kbd>**Áreas de estudo e atuação:** desenvolvimento de software, estrutura de dados, suporte técnico e segurança da informação</kbd>
+<kbd align='center'>**Áreas de estudo e atuação:** desenvolvimento de software, estrutura de dados, suporte técnico e segurança da informação</kbd>
 
 
 ##
