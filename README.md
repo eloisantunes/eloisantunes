@@ -10,7 +10,7 @@
 ##
 
 <div align='center'>
-<kbd>**Áreas de estudo e atuação:** programação front/back-end, estrutura de dados, suporte técnico e segurança da informação</kbd>
+<kbd>**Áreas de atuação e estudo:** programação front/back-end, suporte técnico, estrutura de dados e segurança da informação</kbd>
 </div>
 
 ##
