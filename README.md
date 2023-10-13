@@ -9,6 +9,10 @@
   
 ##
 
+Uma grande apaixonada por tecnologia e pelas coisas que ela pode fazer. 
+Atualmente com foco integral nos estudos e projetos pessoais.
+Entusiasta de creative coding.
+
 <div align='center'>
 <kbd>**Áreas de atuação e estudo:** programação front/back-end, suporte técnico, estrutura de dados e segurança da informação</kbd>
 </div>
