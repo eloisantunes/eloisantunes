@@ -9,8 +9,8 @@
   
 ##
 
-Uma grande apaixonada por tecnologia e pelas coisas que ela pode fazer. 
-Atualmente com foco integral nos estudos e projetos pessoais.
+Uma grande apaixonada por tecnologia e pelas coisas que ela pode fazer. <br>
+Atualmente com foco integral nos estudos e projetos pessoais. <br>
 Entusiasta de creative coding.
 
 <div align='center'>
