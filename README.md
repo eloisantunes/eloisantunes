@@ -13,7 +13,7 @@ Atualmente com foco integral nos estudos e projetos pessoais<br>
 Entusiasta de creative coding.
 
 <div>
-<kbd>**Áreas de atuação e estudo:** programação front/back-end, suporte técnico, estruturas de dados e segurança da informação.</kbd>
+<kbd>**Áreas de atuação e estudo:** programação front/back-end, suporte técnic, estruturas de dados e segurança da informação.</kbd>
 </div>
   
 ##
