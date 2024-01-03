@@ -10,7 +10,7 @@
 ##
 Aficionada por tecnologia e pelas coisas que ela pode fazer<br>
 Atualmente com foco integral nos estudos e projetos pessoais<br>
-Entusiasta de creative coding. 
+Entusiasta de creative coding.<br> 
 { um pouco do meu trabalho de arte com código : https://openprocessing.org/user/395750?view=sketches }
 
 <div>
