@@ -1,11 +1,4 @@
 
-
-<div align='center'>
-  
-  <a href="https://www.linkedin.com/in/eloisa-antunes" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=appveyor=linkedin&logoColor=white" target="_blank"></a> 
-  
-  </div>
   
 ##
 Aficionada por tecnologia e pelas coisas que ela pode fazer<br>
