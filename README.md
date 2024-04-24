@@ -13,5 +13,3 @@ Entusiasta de creative coding.<br>
   
 ##
   </div>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-0a)](https://github.com/e-0a/github-readme-stats)
