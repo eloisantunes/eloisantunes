@@ -8,7 +8,10 @@ Entusiasta de creative coding.<br>
 <div>
 <kbd>**Áreas de atuação e estudo:** programação front/back-end, banco de dados e segurança da informação.</kbd>
 </div>
+
+
   
 ##
   </div>
- 
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-0a)](https://github.com/e-0a/github-readme-stats)
