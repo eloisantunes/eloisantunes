@@ -8,7 +8,9 @@
     Atualmente com foco integral nos estudos e projetos pessoais<br>
     Entusiasta de creative coding. 
   </p> 
-  •••<br>
+  •••
+  <br><br>
+  
   <div>
     <kbd>Áreas de estudo e atuação: <br>
       → front-end (Typescript/Angular) <br>
