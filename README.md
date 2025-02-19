@@ -13,10 +13,9 @@
   
   <div>
     <kbd>Áreas de estudo e atuação: <br>
-      → front-end (Typescript/Angular) <br>
+      → front-end (Angular/Typescript) <br>
       → back-end (Java) <br>
-      → banco de dados (SQL) <br>
-      → cibersegurança.</kbd>
+      → banco de dados (SQL) </kbd>
   </div>
   
 ##
